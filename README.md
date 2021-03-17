@@ -1,6 +1,6 @@
-<div style="text-align:center"><img style="text-align:center" src="https://user-images.githubusercontent.com/73148418/111402437-f8669700-86a9-11eb-81c7-8ff2f8b42b07.png" /></div>
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73148418/111402437-f8669700-86a9-11eb-81c7-8ff2f8b42b07.png" />
+</p>
 
 <!--
 **DevFC-M/DevFC-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
