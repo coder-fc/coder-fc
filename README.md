@@ -1,7 +1,11 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73148418/111402437-f8669700-86a9-11eb-81c7-8ff2f8b42b07.png" />
 </p>
+# Desenvolvedor web front-end á 7 meses. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios).
 
+Cursando o terceiro semestre em ciências da computação, apaixonado pela área de tecnologia estou em busca de novas oportunidades e desafios no mercado de trabalho afim de apresentar os melhores resultados.
+
+Minha motivação me inspira a buscar sempre novos conhecimentos.
 ## My contacts:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-fcm/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipech3344@gmail.com)
