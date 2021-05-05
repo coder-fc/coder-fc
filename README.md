@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73148418/111402437-f8669700-86a9-11eb-81c7-8ff2f8b42b07.png" />
+<img src="https://user-images.githubusercontent.com/73148418/117093790-5b82ba80-ad38-11eb-86a4-f27a2b8b28cc.png" />
 </p>
 Desenvolvedor web front-end á 8 meses. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios).
 
