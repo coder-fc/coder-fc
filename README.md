@@ -8,7 +8,7 @@ Cursando o terceiro semestre em ciências da computação, apaixonado pela área
 Minha motivação me inspira a buscar sempre novos conhecimentos.
 ## My contacts:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-fcm/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipech3344@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfc.contato@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/A2VE6CIPCAJOC1)
 
 ## My technologies:
