@@ -6,12 +6,12 @@ Desenvolvedor web front-end á 8 meses. Com o objetivo de praticar os meus conhe
 Cursando o terceiro semestre em ciências da computação, apaixonado pela área de tecnologia estou em busca de novas oportunidades e desafios no mercado de trabalho afim de apresentar os melhores resultados.
 
 Minha motivação me inspira a buscar sempre novos conhecimentos.
-## My contacts:
+## Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-fcm/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfc.contato@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/A2VE6CIPCAJOC1)
 
-## My technologies:
+## Minhas Tecnologias:
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
