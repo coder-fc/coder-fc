@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73148418/117094001-f085b380-ad38-11eb-86bc-c37b38757990.png"/>
 </p>
-Desenvolvedor web front-end á 10 meses. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios).
+Desenvolvedor web front-end á 10 meses. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios). <br>
 
 Participei do evento NLW Together onde tive o prazer de criar um projeto completo utilizando as tecnologias HTML, CSS, JavaScript, NodeJS, EJS, Express e como de dados o SQL Lite. Criamos uma aplicação completa de interação atráves de perguntas onde o criador da sala através de uma senha pode gerenciar estas perguntas.  
 
