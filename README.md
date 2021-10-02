@@ -3,7 +3,7 @@
 </p>
 Desenvolvedor web front-end á 10 meses. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios).  
 
-Cursando o terceiro semestre em ciências da computação, apaixonado pela área de tecnologia estou em busca de novas oportunidades e desafios no mercado de trabalho afim de apresentar os melhores resultados.  
+Cursando o quarto semestre em ciências da computação, apaixonado pela área de tecnologia estou em busca de novas oportunidades e desafios no mercado de trabalho afim de apresentar os melhores resultados.  
 
 Participei do evento NLW Together onde tive o prazer de criar um projeto completo utilizando as tecnologias HTML, CSS, JavaScript, NodeJS, EJS, Express e como de dados o SQL Lite. Criamos uma aplicação completa de interação atráves de perguntas onde o criador da sala através de uma senha pode gerenciar estas perguntas.  
 
