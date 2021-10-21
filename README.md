@@ -5,7 +5,7 @@ Desenvolvedor web front-end á 10 meses. Com o objetivo de praticar os meus conh
 
 Cursando o quarto semestre em ciências da computação, apaixonado pela área de tecnologia estou em busca de novas oportunidades e desafios no mercado de trabalho afim de apresentar os melhores resultados.  
 
-Participei do evento NLW Together onde tive o prazer de criar um projeto completo utilizando as tecnologias HTML, CSS, JavaScript, NodeJS, EJS, Express e como de dados o SQL Lite. Criamos uma aplicação completa de interação atráves de perguntas onde o criador da sala através de uma senha pode gerenciar estas perguntas.  
+Participei do evento NLW Together onde tive o prazer de criar um projeto completo utilizando as tecnologias HTML, CSS, JavaScript, NodeJS, EJS, Express e como banco de dados o SQL Lite. Criamos uma aplicação completa de interação atráves de perguntas onde o criador da sala através de uma senha pode gerenciar estas perguntas.  
 
 Minha motivação me inspira a buscar sempre novos conhecimentos.
 ## Meus contatos:
