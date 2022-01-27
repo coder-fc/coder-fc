@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73148418/117094001-f085b380-ad38-11eb-86bc-c37b38757990.png"/>
 </p>
-Desenvolvedor web front-end á 1 ano. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios).  
+Desenvolvedor web front-end á 1 ano e 2 meses. Com o objetivo de praticar os meus conhecimentos realizei projetos juntos aos cursos de web design e html/css. Em ambas oportunidades tive o prazer de criar um site completo com ás tecnologias HTML, CSS, Javascript e PHP (formularios).  
 
 Cursando o quarto semestre em ciências da computação, apaixonado pela área de tecnologia estou em busca de novas oportunidades e desafios no mercado de trabalho afim de apresentar os melhores resultados.  
 
