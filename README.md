@@ -19,7 +19,6 @@ Minha motivação me inspira a buscar sempre novos conhecimentos.
 ![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br/> <br/>
 
-![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFC-M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![DevFC-M GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFC-M&show_icons=true&theme=dracula)
 
 <!--
