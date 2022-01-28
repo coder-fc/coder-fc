@@ -1,16 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73148418/117094001-f085b380-ad38-11eb-86bc-c37b38757990.png"/>
+<img height="350px" src="https://user-images.githubusercontent.com/73148418/117094001-f085b380-ad38-11eb-86bc-c37b38757990.png"/>
 </p>
-<h2 align="center"> My contacts </h2>
-<hr /> <br />
-<p align="center">
-<a href="https://www.linkedin.com/in/dev-fcm/" target="blank"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:devfc.contato@gmail.com" target="blank"> 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+
 
 
 <h2 align="center">Stacks & Studying</h2>
@@ -33,6 +24,17 @@
 <br />
 
 <div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=DevFC-M&theme=dracula" alt="everton-dgn" /></div>
+
+<h2 align="center"> My contacts </h2>
+<hr /> <br />
+<p align="center">
+<a href="https://www.linkedin.com/in/dev-fcm/" target="blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:devfc.contato@gmail.com" target="blank"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 
 <!--
