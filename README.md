@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">Stacks & Studying</h2>
+<h2 align="center">Skills and Studies</h2>
 <hr /> <br />
 <div align="center">
 <code><img height="60" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML"></code>
