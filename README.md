@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/dev-fcm/" target="blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:devfc.contato@gmail.com" target="blank"> 
+<a href="mailto:felipecm13@outlook.com.br" target="blank"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
