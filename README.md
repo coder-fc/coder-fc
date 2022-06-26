@@ -23,7 +23,7 @@
 
 <br />
 
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=DevFC-M&theme=dracula" alt="everton-dgn" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=DevFC-M&theme=dracula" alt="devfc-m" /></div>
 
 <h2 align="center"> My contacts </h2>
 <hr /> <br />
