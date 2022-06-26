@@ -17,7 +17,7 @@
 <hr /> <br />
 
 <div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFC-M&hide=php,handlebars&layout=compact&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFC-M&hide=,handlebars&layout=compact&theme=dracula"> 
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=DevFC-M&show_icons=true&theme=dracula"> 
 </div>
 
