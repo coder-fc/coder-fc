@@ -17,13 +17,13 @@
 <hr /> <br />
 
 <div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFC-M&hide=,handlebars&layout=compact&theme=dracula"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=DevFC-M&show_icons=true&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-fc&hide=,handlebars&layout=compact&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=coder-fc&show_icons=true&theme=dracula"> 
 </div>
 
 <br />
 
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=DevFC-M&theme=dracula" alt="devfc-m" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=coder-fc&theme=dracula" alt="devfc-m" /></div>
 
 <h2 align="center"> My contacts </h2>
 <hr /> <br />
