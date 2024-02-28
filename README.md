@@ -8,7 +8,7 @@
 <hr /> <br />
 <div align="center">
 <code><img height="60" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" title="HTML"></code>
-<code><img height="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiziglobalsolution.com%2Fcss-course%2F&psig=AOvVaw0CxdLMpF-lyz9LGp6MBp8x&ust=1709168683476000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCFodnrzIQDFQAAAAAdAAAAABAF" title="CSS"></code> 
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS"></code> 
 <code><img height="60" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" title="JAVASCRIPT"></code> 
 <code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
 <code><img height="60" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
