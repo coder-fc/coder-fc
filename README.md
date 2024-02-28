@@ -12,6 +12,7 @@
 <code><img height="60" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" title="JAVASCRIPT"></code> 
 <code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TYPESCRIPT"></code>
 <code><img height="60" src="https://cdn.auth0.com/blog/react-js/react.png" title="REACT"></code> 
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python"></code> 
 </div>
 <br />
 <hr /> <br />
