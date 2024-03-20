@@ -18,8 +18,7 @@
 <hr /> <br />
 
 <div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-fc&hide=html,handlebars&layout=compact&theme=dracula"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=coder-fc&show_icons=true&theme=dracula"> 
+  <img height="272em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-fc&hide=html,handlebars&layout=compact&theme=dracula"> 
 </div>
 
 <br />
